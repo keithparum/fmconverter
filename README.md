@@ -18,7 +18,7 @@
 <br>
 <h2>Snapshot of the app</h2>
 
-![app_image](https://github.com/keithparum/fmconverter/assets/23403050/90531a24-8b04-4c4b-a62f-cd92c9d30f1e)
+![Example Image](image/app_image.png)
 
 <br>
 <hr>
