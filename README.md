@@ -19,4 +19,6 @@
 <h2>Snapshot of the app</h2>
 ![Example Image](image/app_image.png)
 <br>
-<p>Thanks for reading this file. <i>Keith Parum</i></p>
+<hr>
+<p>Thanks for reading this file.</p>
+<p><i>Keith Parum</i></p>
