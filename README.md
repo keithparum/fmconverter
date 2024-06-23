@@ -17,7 +17,7 @@
 <p>The CLEAR button is used to clear all cells once you are done with your conversion.</p>
 <br>
 <h2>Snapshot of the app</h2>
-![Snapshot](image/app_image.png)
+![app_image](https://github.com/keithparum/fmconverter/assets/23403050/90531a24-8b04-4c4b-a62f-cd92c9d30f1e)
 <br>
 <hr>
 <p>Thanks for reading this file.</p>
