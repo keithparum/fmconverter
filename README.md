@@ -17,6 +17,6 @@
 <p>The CLEAR button is used to clear all cells once you are done with your conversion.</p>
 <br>
 <h2>Snapshot of the app</h2>
-![Example Image](images/app_image.png)
+![Example Image](image/app_image.png)
 <br>
 <p>Thanks for reading this file. <i>Keith Parum</i></p>
